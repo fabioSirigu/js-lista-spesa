@@ -3,7 +3,7 @@
 const discountList = [
       'comprare un fusto di birra',
       'comprare i bicchieri per la birra',
-      'comprare i sottobicchieri per la i bicchieri per la birra',
+      'comprare i sottobicchieri per i bicchieri per la birra',
       'comprare un tavolo dove mettere il fusto di birra'
 ];
 
